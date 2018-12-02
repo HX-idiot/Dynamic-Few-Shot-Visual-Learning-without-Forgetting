@@ -10,7 +10,7 @@ pytorch simple implement for the CVPR 2018 paper [Dynamic Few Shot Visual Learni
 ### Train the model
 
 * Step 1 refers to pretrain Feature Extractor and cosine-based Classifier. In this process I set the epoch_num to 30. 
-* Step 2 refers to continue train Classifier and attention-based Few-shot Weight Generatoe
+* Step 2 refers to continue train Classifier and attention-based Few-shot Weight Generator.
 
 ### Evaluate
 
