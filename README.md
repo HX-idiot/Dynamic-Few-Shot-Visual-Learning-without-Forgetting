@@ -14,4 +14,4 @@ pytorch simple implement for the CVPR 2018 paper [Dynamic Few Shot Visual Learni
 
 ### Evaluate
 
-* We get similar result as published in paper.
+* I get similar result as published in paper.
