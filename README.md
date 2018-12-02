@@ -1,7 +1,6 @@
 # Dynamic-Few-Shot-Visual-Learning-without-Forgetting
-jupyter simple implement for Dynamic Few-Shot Visual Learning without Forgetting
 
-pytorch simple implement for the NIPS 2017 paper [Dynamic Few Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) in jupyter version.
+pytorch simple implement for the CVPR 2018 paper [Dynamic Few Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) in jupyter version.
 
 
 ### Set up the  dataset
